@@ -1,0 +1,46 @@
+{
+  "name": "carousel",
+  "version": "1.2.2",
+  "main": [
+    "./javascripts/jquery.carousel.js",
+    "./stylesheets/jquery.carousel.css"
+  ],
+  "ignore": [
+    "README*",
+    "LICENSE*",
+    "**/*.sass",
+    "**/*.coffee",
+    "**/sample.*",
+    "**/rainbow.js",
+    "**/rainbow.css",
+    "**/jquery.js",
+    "**/jquery.css",
+    "samples",
+    "spec",
+    "bourbon",
+    "neat",
+    "packages",
+    "images",
+    "Cakefile*",
+    "Rakefile*",
+    "Gemfile*",
+    ".git*",
+    ".travis*",
+    "*bower.json",
+    "*jquery.json",
+    "index*"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "homepage": "https://github.com/ksylvest/jquery-carousel",
+  "_release": "1.2.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.2.2",
+    "commit": "887b9996a6db99efdbae6f1a7727913a780928ea"
+  },
+  "_source": "git://github.com/ksylvest/jquery-carousel.git",
+  "_target": "*",
+  "_originalSource": "carousel"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "LandingPage",
+  "version": "0.0.1 alpha",
+  "authors": [
+    "Maxim Tananin"
+  ],
+
+  "dependencies":{
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "fontawesome": "latest",
+    "fancybox": "latest",
+    "carousel": "latest",
+    "countdown": "latest"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs2",
+    "test",
+    "tests"
+  ]
+}
